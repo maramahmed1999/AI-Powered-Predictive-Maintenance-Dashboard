@@ -4,25 +4,25 @@ The system is built on the NASA CMAPSS Turbofan Jet Engine dataset, which contai
 
 ---
   
-##Our pipeline includes:
+## Our pipeline includes:
 
-###🔧 Data Preparation & Cleaning: 
+### 🔧 Data Preparation & Cleaning: 
 - Handling missing values, aligning time-series, and preparing run-to-failure windows.
 
-###📊 Exploratory Data Analysis (EDA): 
+### 📊 Exploratory Data Analysis (EDA): 
 - Identifying sensor trends, degradation patterns, and operating condition effects.
 
-###🤖 Model Training: 
+### 🤖 Model Training: 
 - Implementing both traditional ML models (e.g., Gradient Boosting, Random Forests) and deep learning approaches (e.g., LSTM networks) to predict either:
 
     - Remaining Useful Life (RUL) → regression framing
 
     - Failure risk (healthy/faulty) → classification framing
 
-###✅ Model Validation: 
+### ✅ Model Validation: 
 - performance evaluation using time-series metrics such as RMSE, MAE, and accuracy.
 
-###🌐 Deployment: 
+### 🌐 Deployment: 
 - A lightweight Streamlit dashboard where users can upload sensor logs in CSV format and receive real-time health forecasts or maintenance risk alerts.
 
 ---
