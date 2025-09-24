@@ -41,19 +41,28 @@ the Remaining Useful Life (RUL) → regression framing.
   - MAE  
   - R² Score
 
- ### 📂 Sub-datasets Coverage
+ ### 📂 Sub-datasets Coverage:
 - The pipeline was applied to **all four CMAPSS subsets (FD001–FD004)**.  
 - Each subset was analyzed and modeled separately to account for unique operating conditions and fault modes.  
 - Based on the comparative performance, the **most suitable model** fd001_lstm was selected and deployed in the **GTC-Predictive-Maintenance WebApp** for real-time RUL prediction.
 
-## 🖥️ Web Application (Streamlit)
+## 🖥️ Web Application (Streamlit):
 We developed a **Streamlit-based web application** for interactive RUL prediction.  
 - Features:  
     - Users input sensor values  
     - The trained model (from FD001) predicts Remaining Useful Life  
     - Intuitive interface for industry stakeholders  
 ---
-##📈 Results & Insights
+### 📈 Results & Insights:
+- FD001_LSTM: Accuracy ≈ 88% (and this dataset was also used to build and deploy the web application)
+- FD002_LSTM: Accuracy ≈ 78.6%
+- FD003_LSTM: Accuracy ≈ 82.6%
+- FD004_CatBoost: Accuracy ≈ 82.2%
+
+👉 Overall, model accuracies ranged between 78% – 88% across the four datasets, reflecting consistent 
+and reliable performance. The results demonstrate the model’s capability to make accurate predictions, with FD001 being selected 
+as the primary dataset for the final web application due to its performance.
+
 ---
 
 ## 📂 Project Structure:
