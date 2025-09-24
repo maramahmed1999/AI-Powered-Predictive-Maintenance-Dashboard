@@ -1,4 +1,4 @@
-# AI Powered Predictive Maintenance Dashboard
+# GTC Predictive Maintenance
 Machine learning project designed to predict the remaining useful life (RUL) of industrial equipment using time-series sensor data. 
 The system is built on the NASA CMAPSS Turbofan Jet Engine dataset, which contains multiple operating conditions and fault modes.
 
