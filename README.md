@@ -65,6 +65,7 @@ GTC-Predictive-Maintenance/   # Repository root
 │── final_code/        # Final integrated pipeline code
 │── App/               # Streamlit web application 
 │── README.md          # Project documentation
+
 ---
 
 ## 👩‍💻 Team Members:
