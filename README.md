@@ -58,12 +58,19 @@ We developed a **Streamlit-based web application** for interactive RUL predictio
 
 ## 📂 Project Structure:
 GTC-Predictive-Maintenance/ # Repository root
+
 │── Data/ # Raw C-MAPSS datasets (FD001–FD004)
+
 │── EDA/ # Jupyter notebooks for exploratory data analysis
+
 │── Preprocessing/ # Data Understanding & Preprocessing
+
 │── models_building/ # Model training scripts and notebooks
+
 │── models/ # Saved trained models
+
 │── README.md # Project documentation
+
 
 ---
 
