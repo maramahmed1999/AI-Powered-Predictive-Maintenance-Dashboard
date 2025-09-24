@@ -72,7 +72,7 @@ GTC-Predictive-Maintenance/ # Repository root
 
 ## 👩‍💻 Team Members:
 - Abderlrahman Mostafa Mohamed
-- Alaa Mohamed Ali Mohamed
+- Alaa Mohamed Ali 
 - Aya Mohamed Abdelfatah
 - Mahmoud Osama Hassan
 - Maram Hazem Fouad
