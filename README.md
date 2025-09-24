@@ -64,6 +64,17 @@ and reliable performance. The results demonstrate the model’s capability to ma
 as the primary dataset for the final web application due to its performance.
 
 ---
+## 🚀 Demo  
+
+Here is a quick demo of our RUL prediction app built with Streamlit:
+
+![App Screenshot](App/demo.png)
+
+
+## 🚀 Try it Online
+You can try our Streamlit app here: [Live Demo](https://your-app-name.streamlit.app)
+
+----
 
 ## 📂 Project Structure:
 GTC-Predictive-Maintenance/ # Repository root
