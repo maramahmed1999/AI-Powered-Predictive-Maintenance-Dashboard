@@ -67,7 +67,7 @@ as the primary dataset for the final web application due to its performance.
 ## 📽️ Project Presentation
 
 You can view our full project presentation here:  
-[🔗 Watch the Presentation]([https://link-to-your-presentation.com](https://gamma.app/docs/The-Challenge-Were-Solving-x9700b2zw3vz7z7?mode=doc))
+[🔗 Watch the Presentation](https://gamma.app/docs/The-Challenge-Were-Solving-x9700b2zw3vz7z7?mode=doc)
 
 ## 🚀 Demo  
 
