@@ -84,7 +84,7 @@ GTC-Predictive-Maintenance/ # Repository root
 - [Preprocessing/](./Preprocessing) → Data understanding & preprocessing  
 - [models_building/](./models_building) → Model training notebooks  
 - [models/](./models) → Saved trained models  
-- [final_code/](./final_code) → Final integrated pipeline code  
+- [Final_code/](./Final_code) → Final integrated pipeline code  
 - [App/](./App) → Streamlit web application  
 - [README.md](./README.md) → Project documentation  
 
