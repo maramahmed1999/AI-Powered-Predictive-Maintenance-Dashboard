@@ -64,6 +64,11 @@ and reliable performance. The results demonstrate the model’s capability to ma
 as the primary dataset for the final web application due to its performance.
 
 ---
+## 📽️ Project Presentation
+
+You can view our full project presentation here:  
+[🔗 Watch the Presentation]([https://link-to-your-presentation.com](https://gamma.app/docs/The-Challenge-Were-Solving-x9700b2zw3vz7z7?mode=doc))
+
 ## 🚀 Demo  
 
 Here is a quick demo of our RUL prediction app built with Streamlit:
