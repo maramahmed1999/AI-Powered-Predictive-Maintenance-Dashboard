@@ -75,7 +75,7 @@ You can view our full project presentation here:
 
 Here is a quick demo of our RUL prediction app built with Streamlit:
 
-![Web interface.jpeg](Wep_APP/Web interface.jpeg)
+![Web interface.jpeg](Web_APP/Web-interface.jpeg)
 
 
 ## 🚀 Try it Online
