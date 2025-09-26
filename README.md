@@ -85,7 +85,7 @@ GTC-Predictive-Maintenance/ # Repository root
 - [models_building/](./models_building) → Model training notebooks  
 - [models/](./models) → Saved trained models  
 - [Final_code/](./Final_code) → Final integrated pipeline code  
-- [App/](./App) → Streamlit web application  
+- [Web_App/](./Web_App) → Streamlit web application  
 - [README.md](./README.md) → Project documentation  
 
 ---
