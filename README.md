@@ -77,11 +77,43 @@ Here is a quick demo of our RUL prediction app built with Streamlit:
 
 ![Web interface.jpeg](Web_APP/Web-interface.jpeg)
 
-
-## 🚀 Try it Online
-You can try our Streamlit app here: [Live Demo](https://your-app-name.streamlit.app)
-
 ----
+
+## 🚀 How to Run the Project
+
+### Requirements
+- Python 3.11  
+- Install all required packages:
+```bash
+pip install -r requirements.txt
+```
+This will install all necessary libraries, including:
+fastapi, uvicorn, streamlit, tensorflow, scikit-learn, joblib, pandas, numpy, requests.
+
+- Running the Backend (API)
+     - Open a terminal in the project directory.
+     - Run the FastAPI server:
+```bash
+py -3.11 -m uvicorn api:app --reload --port 8000
+```
+The server will start at http://127.0.0.1:8000
+
+You can test the endpoints at http://127.0.0.1:8000/docs
+
+Keep this terminal open while running the frontend.
+
+- Running the Frontend (Streamlit)
+
+   - Open a new terminal in the project directory.
+   - Run the Streamlit app:
+```bash
+py -3.11 -m streamlit run app.py
+```
+Open the link shown in the terminal (usually http://localhost:8501) to access the app.
+
+#### Notes:
+- Make sure the backend server is running before using the Streamlit app, otherwise the app will fail to send requests.
+- The project uses pretrained models (.pkl and TensorFlow models), so ensure all model files are in the project folder.
 
 ## 📂 Project Structure:
 GTC-Predictive-Maintenance/ # Repository root
