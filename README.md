@@ -67,7 +67,7 @@ as the primary dataset for the final web application due to its performance.
 ## 📽️ Project Presentation
 
 You can view our full project presentation here:  
-[🔗 Watch the Presentation](https://docs.google.com/presentation/d/1Z6xxRFwzu5DqX9C2cGzqd-Uw_rpPEaZxHlQNHn6Rg7Y/edit?usp=sharing)
+[🔗 Watch the Presentation](https://docs.google.com/presentation/d/1uPsbFLHOwE79Xo3Lz8Br6scbWUrcs9p-/edit?slide=id.p1#slide=id.p1)
 
 ---
 
