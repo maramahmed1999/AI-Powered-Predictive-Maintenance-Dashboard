@@ -69,6 +69,8 @@ as the primary dataset for the final web application due to its performance.
 You can view our full project presentation here:  
 [🔗 Watch the Presentation](https://gamma.app/docs/The-Challenge-Were-Solving-x9700b2zw3vz7z7?mode=doc)
 
+---
+
 ## 🚀 Demo  
 
 Here is a quick demo of our RUL prediction app built with Streamlit:
